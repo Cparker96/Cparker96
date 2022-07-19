@@ -9,7 +9,7 @@ When I'm not working, I love to:
 - 🎿 Ski (when in season)
 - 🥾 Hike (also when in season)
 - 🚣🏿‍♀️ Paddleboard
-- 🕹️ PC Gaming
+- 🕹️ Gaming
 - ✈️ Travel
 - 👨‍💻 Learn about new technologies (I have a unique interest in 🚀 rocketry and 💻cyber)
 
