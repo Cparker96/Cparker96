@@ -1,6 +1,6 @@
 👋 Hi, I’m Cody!
 
-- I'm a Cloud Engineer ☁️🖥️ currently working at Textron Inc, and an alumni at Texas A&M University
+- I'm a Cloud Engineer ☁️🖥️ currently working at Textron Inc, and an alumni at Texas A&M University :+1:
 - 👀 I’m interested in developing CI/CD pipelines with DevOps and anything to do with automation or Infrastructure as Code 🤖
 - 🌱 I’m currently working mainly with Powershell and some bash, but looking to get into more languages like Python 🐍 or Scala :red_circle: (stay tuned for a personal project...)
 
