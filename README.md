@@ -10,8 +10,8 @@ When I'm not working, I love to:
 - 🥾 Hike (also when in season)
 - 🚣🏿‍♀️ Paddleboard
 - 🕹️ Gaming
-- ✈️ Travel
-- 👨‍💻 Learn about new technologies (I have a unique interest in 🚀 rocketry and 💻cyber)
+- ✈:tokyo_tower: Travel
+- :airplane: Fly drones commercially
 
 - Feel free to reach me at codywparker96@gmail.com or check out my social media links!
 
