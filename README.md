@@ -6,10 +6,10 @@
 
 When I'm not working, I love to:
 - 🚴 Bike
-- 🎿 Ski (when in season)
-- 🥾 Hike (also when in season)
+- 🎿 Ski 
+- 🥾 Hike 
 - 🚣🏿‍♀️ Paddleboard
-- 🕹️ Gaming
+- 🕹️ Game
 - :tokyo_tower: Travel
 - :airplane: Fly my drone
 
