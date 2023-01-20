@@ -1,8 +1,8 @@
 👋 Hi, I’m Cody!
 
-- I'm a Cloud Engineer ☁️🖥️ currently working at Textron Inc, and an alumni at Texas A&M University :+1:
-- 👀 I’m interested in developing CI/CD pipelines with DevOps and anything to do with automation or Infrastructure as Code 🤖
-- 🌱 I’m currently working mainly with Powershell and some bash, but looking to get into more languages like Python 🐍 or Scala :red_circle: (stay tuned for a personal project...)
+- I'm a Ground Software Developer ☁️🖥️ currently working at AST SpaceMobile, and an alumni at Texas A&M University :+1:
+- 👀 I’m interested in API development and/or anything to do with automation/Infrastructure as Code in a cloud environment 🤖 
+- 🌱 I’m currently working mainly with Powershell and some bash, but looking to dive into FastAPI with python 🐍 (stay tuned for a personal project...)
 
 When I'm not working, I love to:
 - 🚴 Bike
