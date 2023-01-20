@@ -11,7 +11,7 @@ When I'm not working, I love to:
 - 🚣🏿‍♀️ Paddleboard
 - 🕹️ Gaming
 - :tokyo_tower: Travel
-- :airplane: Fly drones commercially
+- :airplane: Fly my drone
 
 - Feel free to reach me at codywparker96@gmail.com or check out my social media links!
 
